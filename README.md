@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [EffectiveApe.com][https://effectiveape.com] and [cowbird][https://github.com/kreechr-org/cowbird].
+- 🔭 I’m currently working on [EffectiveApe.com](https://effectiveape.com) and [cowbird](https://github.com/kreechr-org/cowbird).
 - 🌱 I’m currently learning web3.
 - 👯 I’m looking to collaborate on anything web3
 - 🤔 I’m looking for help with EffectiveApe.com
